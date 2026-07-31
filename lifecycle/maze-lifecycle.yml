@@ -1,0 +1,13 @@
+generated: '2026-07-20'
+method: searched
+source: https://maze.co/
+status_page: https://status.maze.co/
+notes: >-
+  Maze is a hosted UX/product-research SaaS with no public developer API,
+  so there is no published API versioning or deprecation policy to capture.
+  A public status page is operated at https://status.maze.co/ (Statuspage).
+  Versioning/deprecation left null — none published.
+versioning: null
+deprecation: null
+sla: null
+deprecated_operations: []

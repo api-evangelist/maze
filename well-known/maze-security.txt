@@ -1,0 +1,5 @@
+Contact: https://maze.co/disclosure/
+Expires: 2027-03-16T08:26:00.000Z
+Preferred-Languages: en
+Policy: https://maze.co/disclosure/
+Canonical: https://maze.co/.well-known/security.txt

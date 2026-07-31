@@ -1,0 +1,20 @@
+generated: '2026-07-20'
+method: searched
+source: https://maze.co/security/
+standards:
+  - id: soc2-type-ii
+    conforms: true
+    evidence: "Maze security page states 'We are SOC 2 Type II certified (Security)' with a linked SOC 2 report request."
+  - id: gdpr
+    conforms: true
+    evidence: "Security page: customer and employee personal data handled in accordance with the GDPR."
+  - id: aes-256-encryption
+    conforms: true
+    evidence: "Data encrypted in transit and at rest using industry-standard AES-256."
+  - id: pci-dss
+    conforms: false
+    evidence: "PCI compliance referenced on the security page belongs to Stripe (Maze's payment processor), not to Maze itself."
+compliance_program:
+  soc2_type_ii: true
+  gdpr: true
+  report_request: https://maze.co/security/
